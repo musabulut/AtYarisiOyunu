@@ -1,0 +1,20 @@
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\QRCODE\QRCODE\bin\Debug\QRCODE.exe.config
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\QRCODE\QRCODE\bin\Debug\QRCODE.exe
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\QRCODE\QRCODE\bin\Debug\QRCODE.pdb
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\QRCODE\QRCODE\obj\Debug\QRCODE.csprojAssemblyReference.cache
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\QRCODE\QRCODE\obj\Debug\QRCODE.Form1.resources
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\QRCODE\QRCODE\obj\Debug\QRCODE.Properties.Resources.resources
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\QRCODE\QRCODE\obj\Debug\QRCODE.csproj.GenerateResource.cache
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\QRCODE\QRCODE\obj\Debug\QRCODE.csproj.CoreCompileInputs.cache
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\QRCODE\QRCODE\obj\Debug\QRCODE.exe
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\QRCODE\QRCODE\obj\Debug\QRCODE.pdb
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-10(AtYarışı)\QRCODE\bin\Debug\QRCODE.exe.config
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-10(AtYarışı)\QRCODE\bin\Debug\QRCODE.exe
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-10(AtYarışı)\QRCODE\bin\Debug\QRCODE.pdb
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-10(AtYarışı)\QRCODE\obj\Debug\QRCODE.csprojAssemblyReference.cache
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-10(AtYarışı)\QRCODE\obj\Debug\QRCODE.Form1.resources
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-10(AtYarışı)\QRCODE\obj\Debug\QRCODE.Properties.Resources.resources
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-10(AtYarışı)\QRCODE\obj\Debug\QRCODE.csproj.GenerateResource.cache
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-10(AtYarışı)\QRCODE\obj\Debug\QRCODE.csproj.CoreCompileInputs.cache
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-10(AtYarışı)\QRCODE\obj\Debug\QRCODE.exe
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-10(AtYarışı)\QRCODE\obj\Debug\QRCODE.pdb
